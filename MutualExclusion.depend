@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544465727 source:/home/merna/Desktop/MutualExclusion/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
